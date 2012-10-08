@@ -8,7 +8,7 @@
     </content>
     <orderEntry type="jdk" jdkName="1.6" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" scope="TEST" name="junit-3.8.2" level="project" />
+    <orderEntry type="library" scope="TEST" name="junit-4.10" level="project" />
     <orderEntry type="library" scope="TEST" name="testng-5.14.10" level="project" />
   </component>
 </module>
